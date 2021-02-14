@@ -1,0 +1,7 @@
+﻿  filesys.cpp
+F:\VS Code for C\VirtualFS\VirtualFS\filesys.cpp(164,13): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+F:\VS Code for C\VirtualFS\VirtualFS\filesys.cpp(221,17): warning C4244: '=': conversion from 'long' to 'char', possible loss of data
+F:\VS Code for C\VirtualFS\VirtualFS\filesys.cpp(249,16): warning C4244: '=': conversion from 'long' to 'char', possible loss of data
+F:\VS Code for C\VirtualFS\VirtualFS\filesys.cpp(342,35): warning C4018: '<': signed/unsigned mismatch
+F:\VS Code for C\VirtualFS\VirtualFS\filesys.cpp(500,41): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  VirtualFS.vcxproj -> F:\VS Code for C\VirtualFS\Debug\VirtualFS.exe
